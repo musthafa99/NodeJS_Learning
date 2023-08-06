@@ -10,6 +10,7 @@ function showNumbers(number) {
 
   }
 
+  
 
 //using conditonal operator
 // function showNumbers(limit) {

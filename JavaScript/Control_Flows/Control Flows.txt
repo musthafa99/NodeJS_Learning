@@ -51,3 +51,6 @@ do
    code;
    increment/decrement
 }while(conditon)
+
+Break-->> it will stops run loop fron current itearaion.
+Contiue--> it will skips the current itearaion.

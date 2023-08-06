@@ -1,0 +1,41 @@
+Array is collection of elements with specified postion.
+To add elemnts->> 
+PUSH method is used to add at end of array.
+Unshift method is used to add at begining of array.
+Splice method is used to add at middle or specified of array.
+Syntax--> Splice(start, no.of  elementsto deleted, adding ele)
+
+Findings elements(Primitive types)-->indexOf() --> used to find the element of first index 
+LastindexOf() --> used to find the element of  last index 
+
+Findings elements(Reference types)--> we need use find function
+Syntax
+objname.find(function(objname))
+{
+    return condition;
+}
+
+Arrow functions-> if we passing as function then we use arrow function
+
+Removing an element
+Pop()-->used to remove last elemnet.
+shift()--> used to remove first element
+Syntax--> Splice(start, no.of  elementsto deleted)
+
+Empty an Array
+1.reintialize array=[];
+2.arry.length=0
+3.splice(0,arry.length)
+4.Pop--> using loop.
+
+Combine an arry--> Keyword Concat is used to combine two array.
+Split an array--> Keyword Slice(start,end) it will split into two arrays.
+
+
+Spread operator--> it also used to combine
+[...first,...second]
+
+Sort an Array---> Keyword Sort is used to sort an array.
+Syntax--> array.sort();
+
+
