@@ -1,0 +1,53 @@
+Conditional Statements
+
+IF else
+Switch 
+
+If else---> If  excutes IF block when conditon is true or Else block 
+
+ Syntax 
+ If(conditon){
+    code
+ }
+ else {
+    code
+ }
+
+ Switch:
+ It is used to perform a spefic task based on conditon.
+
+ Syntax
+ switch(condition){
+   case 1:
+      code
+      break;
+   .
+   .
+   .
+   .
+   case n:
+      code;
+      break;
+ }
+
+
+ Loops;
+ For Loop->>
+ for(declaration;condtion;increment/decrement){
+   code;
+}
+while Loop->>
+declaration
+while(conditon)
+{
+   code;
+   increment/decrement
+}
+
+Do While-->>  it will excutes atleat once.
+declaration
+do
+{
+   code;
+   increment/decrement
+}while(conditon)

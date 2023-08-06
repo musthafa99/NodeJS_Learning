@@ -1,0 +1,49 @@
+What is Variabrles?.
+Variabels used to store data temporiraly 
+Keyword- var or let is used in JavaScript to declare variables.
+Rules:
+should not reserved keyword.
+cannot start with numbers
+cannot have space or hypen
+Varibles are case-sensitive.
+
+Varialbles are also declared ussing keyword Const.
+If we declare const, then value cannot be changed.
+
+
+Primitive Types:
+String,Number,Boolean,Undefined,null.
+
+JavaScript is Dynamic Languages which variables of datatypes can be changed.
+for ex: if we declare name as string we can change to any other data types.
+
+Refernce Types:
+Objects,Functions,Arrays.
+
+Object:
+
+Varibele declare(let,const,var) object={vlaues};
+
+we can use dot(.) operator to access or change properties of Object.
+we can use bracket[value] operator to access or change properties of Object.
+
+
+Array:
+Array is a single variable that is used to elements of different data types.
+Array is also object.
+Length of array is defined arrayname.length.
+
+Functions:
+Function are block of code designe to peform a particular code in JS.
+Functions are declared using function keyword.
+Syntax:
+function function_name(parameter1,parameter2..){ code to be excuted};
+
+A function needed to be called by using function_name to be excuted.
+
+  
+
+
+
+
+

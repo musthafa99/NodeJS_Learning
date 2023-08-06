@@ -1,0 +1,57 @@
+Operators are used to peformining specific mathematic task.
+Types:
+Arthimatic Operators
+Assignment Operators
+Comparsion Operators
+Logical Operators
+Bitwise Operators
+
+Arthimatic Operators:
+Used for mathimatical calcuation like add(+),sub(-),mul(*),div(/),remainder(%),exponenation(**)
+Increment(++)->> ++x it will Increment value by 1 and prints new value.
+Increment(++)->> x++ it will prints the x value and the Increment value by 1. 
+Decerment(--)->> --x it will Decrement value by 1 and prints new value.
+Decrement(--)->> x-- it will prints the x value and the Decrement value by 1.
+
+
+Assignment operators(=):
+Used for assign the value of variabes.
+
+Comparsion Operators:
+Used to compare values and results will be Boolean(true of false).
+Realtional Operators:
+Greater than(>)
+Greater than of equal(>=) 
+Less than(>)
+Less than of equal(<=)
+
+Equality Operators:
+Equal to(===) or Not Equal to (!==).
+
+=== is known Strict equality operator it results true when both type and values are same.
+
+== is known as Lose equality operator it does not caompare the types it will check the values are same.
+
+
+Conditonal or Ternary Operators(?:)
+which evaluates either of two expression (ie.. true of false)
+Syntax:
+Condtion ? True : False
+
+Logical Operators:
+Used to make decision based on multiple Conditonal.
+It can be used for Boolean and Non-Boolean values.
+
+Logical AND(&&)--> Returns true-->if both operands are equal else Returns false.
+Logical OR(||)--> Returns true-->if any one of the operands are equal else Returns false.
+Logical NOT(!)--> It converts True to False or vice-versa.
+
+Bitwise Operators
+works at bit level after converting operands to binary format.
+Bitwise AND(&)--> Returns 1-->if both operands have 1 else Returns 0
+Bitwise OR(|)--> Returns 1-->if any one of the operands have 1 else Returns 0.
+
+Operator Predence:
+BODMASS rule:
+
+

@@ -1,0 +1,25 @@
+What is Variabrles?.
+Variabels used to store data temporiraly 
+Keyword- var or let is used in JavaScript to declare variables.
+Rules:
+should not reserved keyword.
+cannot start with numbers
+cannot have space or hypen
+Varibles are case-sensitive.
+
+Varialbles are also declared ussing keyword Const.
+If we declare const, then value cannot be changed.
+
+
+Primitive Types:
+String,Number,Boolean,Undefined,null.
+
+JavaScript is Dynamic Languages which variables of datatypes can be changed.
+for ex: if we declare name as string we can change to any other data types.
+
+Refernce Types:
+
+
+
+
+
